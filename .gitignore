@@ -1,0 +1,11 @@
+.idea
+.vscode
+build
+
+# npm
+.npm
+node_modules
+package-lock.json
+*.log
+*.gz
+npm-debug.log
